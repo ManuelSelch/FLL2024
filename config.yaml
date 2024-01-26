@@ -1,0 +1,18 @@
+key: enter
+length:
+  min: 10
+  max: 100
+canvas:
+  width: 500
+  height: 500
+  border: 50
+camera_source: 1
+colors:
+  showDefault: True
+  default: '000000'
+  dict:
+    0: 0796e3   # person: blau 
+    7: c908a3   # Truck: pink
+    23: d8e823  # giraffe: gelb
+    67: 00ff1e  # handy: grün
+    
